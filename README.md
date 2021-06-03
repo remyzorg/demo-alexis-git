@@ -6,9 +6,10 @@ Coucou Alexis on est là
 
 
 
+```
 git clone git@github.com:remyzorg/demo-alexis-git.git 
 <faire un changement sur un fichier>
 git add <fichier modifié>
 git commit -m "<text de modification>"
 git push origin master
-
+```
